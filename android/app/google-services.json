@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358381181014",
+    "project_id": "login-app2-f3b82",
+    "storage_bucket": "login-app2-f3b82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358381181014:android:e589fe8b613d19039c43f7",
+        "android_client_info": {
+          "package_name": "com.fahadacnoo.firebaseauth2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACBAKvdOeNy0kki2o8au5EF_f8cDaAYLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
